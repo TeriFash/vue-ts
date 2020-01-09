@@ -23,7 +23,7 @@ export default class MainComponent extends Vue {
       .then(data => data)
   }
 }
-</script>
+</script>++++
 
 <style scoped lang="scss">
 
