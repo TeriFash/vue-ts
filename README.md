@@ -1,24 +1,22 @@
-# vue-ts
+## vue typescript
 
-## Project setup
-```
-yarn install
-```
+Start learning technology project
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+🚚 Project setup.<br />
 
-### Compiles and minifies for production
-```
-yarn build
-```
+> `yarn install` 
 
-### Lints and fixes files
-```
-yarn lint
-```
+🏃 Start Dev Server environment.<br />
 
-### Customize configuration
+> `yarn serve`
+
+🎁 Compiles and minifies for production.<br />
+
+> `yarn build`
+
+👀 Lints and fixes files.<br />
+
+> `yarn lint`
+
+⚒ Customize configuration.<br />
 See [Configuration Reference](https://cli.vuejs.org/config/).
