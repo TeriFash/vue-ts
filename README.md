@@ -1,6 +1,6 @@
 ## vue typescript
 
-Start learning technology project
+Start learning technology typescript project
 
 🚚 Project setup.<br />
 
